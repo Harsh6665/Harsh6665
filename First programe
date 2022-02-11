@@ -1,0 +1,12 @@
+Using System;
+Namespace abc
+{
+Class xyz
+{
+Static void Main(String args[])
+{
+  Console.WriteLine("hello");
+  Console.ReadLine();
+}
+}
+}
